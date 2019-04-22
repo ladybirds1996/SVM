@@ -1,0 +1,25 @@
+﻿  svm.cpp
+c:\users\shuangjiang ou\desktop\毕业设计\svm\svm\svm\svm.cpp(235): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\shuangjiang ou\desktop\毕业设计\svm\svm\svm\svm.cpp(244): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\shuangjiang ou\desktop\毕业设计\svm\svm\svm\svm.cpp(247): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\shuangjiang ou\desktop\毕业设计\svm\svm\svm\svm.cpp(303): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+c:\users\shuangjiang ou\desktop\毕业设计\svm\svm\svm\svm.cpp(307): warning C4244: “参数”: 从“int”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+c:\users\shuangjiang ou\desktop\毕业设计\svm\svm\svm\svm.cpp(332): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\shuangjiang ou\desktop\毕业设计\svm\svm\svm\svm.cpp(336): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+c:\users\shuangjiang ou\desktop\毕业设计\svm\svm\svm\svm.cpp(338): warning C4244: “参数”: 从“_Ty”转换到“const unsigned int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+c:\users\shuangjiang ou\desktop\毕业设计\svm\svm\svm\svm.cpp(354): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\shuangjiang ou\desktop\毕业设计\svm\svm\svm\svm.cpp(384): warning C4326: “main”的返回类型应为“int”而非“void”
+c:\users\shuangjiang ou\desktop\毕业设计\svm\svm\svm\svm.cpp(394): warning C4305: “参数”: 从“double”到“float”截断
+  svm.vcxproj -> C:\Users\shuangjiang ou\Desktop\毕业设计\svm\svm\Debug\svm.exe
